@@ -38,9 +38,16 @@ The analysis shows that the estimated difference in average age at death decreas
 The project generates visualizations for:
 
 * Left-handedness by age and gender
+<img width="616" height="464" alt="image" src="https://github.com/user-attachments/assets/e3a57577-6d9c-4e26-83d1-0981ad0be362" />
+  
 * Mean left-handedness by birth year
+<img width="621" height="470" alt="image" src="https://github.com/user-attachments/assets/c056a373-9d91-4c40-a66e-552c647743d7" />
+
 * Death distribution by age
+<img width="646" height="463" alt="image" src="https://github.com/user-attachments/assets/0662074d-ea70-4133-bf0f-bd85d470e11e" />
+
 * Conditional age-at-death distributions for left- and right-handed individuals
+<img width="669" height="455" alt="image" src="https://github.com/user-attachments/assets/3f80ee9c-6ec9-4f55-91f5-45b2979dca1b" />
 
 ## 📂 Dataset
 
