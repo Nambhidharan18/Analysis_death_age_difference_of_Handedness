@@ -32,6 +32,6 @@ This project demonstrates my ability to **work with real-world data, clean and a
 
 📄 **Want to explore the complete analysis, methodology, visualizations, and results?**
 
-👉 [**Click here to view the Full Project Documentation**](FULL_README_LINK)
+👉 [**Click here to view the Full Project Documentation**](Full_Readme.md)
 
 *Thank you again for your time and consideration!*
